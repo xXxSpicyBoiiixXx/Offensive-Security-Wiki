@@ -3,7 +3,7 @@
 This repository is a comprehensive collection of tools, techniques, and methodologies for penetration testing and cybersecurity research. Whether you're a beginner or an experienced professional, this wiki will provide valuable insights and resources.
 
 ## Sections:
-- [Reconnaisance](link)
+- [Reconnaissance](https://github.com/mdburwood/Offensive-Security-Wiki/tree/main/Reconnaissance)
 - [Vulnerability Analysis](link)
 - [Exploitation](link)
 - [Post-Exploitation](link)

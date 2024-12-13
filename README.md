@@ -3,7 +3,7 @@
 This repository is a comprehensive collection of tools, techniques, and methodologies for penetration testing and cybersecurity research. Whether you're a beginner or an experienced professional, this wiki will provide valuable insights and resources.
 
 ## Consultant Handbook: 
-Congrats on becoming a consultant for Burwood Group! First things first, handling clients depends on the client as well as their industry. As a offensive security 
+Congrats on becoming a consultant! First things first, handling clients depends on the client as well as their industry. As a cybersecurity consultant focusing on offensive security there are some items to note. Feel free to read my guide [here](Add link later)
 
 ## Technical Items:
 - [Reconnaissance](https://github.com/mdburwood/Offensive-Security-Wiki/tree/main/Reconnaissance)
